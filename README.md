@@ -11,7 +11,7 @@ this application uses `react-native-gifted-chat` and uses real time database man
 - `$ npm install`
 
 ## Start Developmet
-`react-ative run android
+`react-ative run android`
 
 ## ScreenShoot App
 <img src=''>
